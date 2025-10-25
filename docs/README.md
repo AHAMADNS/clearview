@@ -1,18 +1,17 @@
-# Clearview - Week Plan
+# Clearview Salesforce Project
 
-Week 1
-- Project setup and org authentication
-- Create data model and sample objects
-- Setup CI and linting
+This is a capstone Salesforce implementation for a pharmaceutical client. It covers Admin, Apex, LWC, Integration, and DevOps.
 
-Week 2
-- Implement core features (Apex/services)
-- Add Lightning Web Components
+## Week 1 Goals
+- Setup project and org
+- Design ER diagram
+- Create documentation folder
 
-Week 3
-- Integration and testing
-- Prepare demo and documentation
+## Docs folder contents
+- `er-diagram.png` — ER diagram (placeholder in repo; replace with exported PNG from Lucidchart or diagrams.net)
+- `design.md` — design notes and object/field summaries
+- `daily-progress.md` — daily progress log (create and update daily)
 
-Notes:
-- Dev Org alias: `clearview-dev`
-- Use the Salesforce CLI (`sf`) for authentication and deployments.
+Guidance:
+- Keep diagram exports in `/docs` alongside the design notes.
+- Add short daily entries to `daily-progress.md` to track progress, decisions and links to diagrams.
