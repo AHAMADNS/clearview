@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>All</fullName>
-    <columns>NAME</columns>
-    <columns>Region__c</columns>
+    <fullName>All1</fullName>
     <filterScope>Everything</filterScope>
-    <label>All Territories</label>
+    <label>All</label>
 </ListView>
