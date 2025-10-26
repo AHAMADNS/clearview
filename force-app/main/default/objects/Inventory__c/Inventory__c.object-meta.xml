@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Inventory</label>
+    <pluralLabel>Inventories</pluralLabel>
+    <nameField>
+        <type>AutoNumber</type>
+        <label>Inventory Number</label>
+        <displayFormat>INV-{0000}</displayFormat>
+    </nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableReports>true</enableReports>
+    <enableHistory>true</enableHistory>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
