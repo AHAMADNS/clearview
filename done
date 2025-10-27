@@ -1,0 +1,89 @@
+[33mcommit da67f1cd86b5b04da19f9fe235a3458d21bec92d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Mon Oct 27 19:13:47 2025 +0530
+
+    Deploy: updated CustomObject fields
+
+[33mcommit 19e3ce2117936f2a38d62241638fb5662fd55049[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Mon Oct 27 16:12:24 2025 +0530
+
+    Updated some fields  object
+
+[33mcommit f99facc33a9c7c8fd911b89182aa16d80261dac8[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 23:35:48 2025 +0530
+
+    Activated Regin field in Territory object
+
+[33mcommit d4e494e2e689efad74521ed606d8c04200aa915a[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 23:30:08 2025 +0530
+
+    Added Territory object which was missed eairlier
+
+[33mcommit 0c909b4f88342d1c6fa35bac9bcc7e4f9010f442[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 20:49:09 2025 +0530
+
+    Deploy: Updated HCP, Inventory, and Product object layouts and fields for sprint.
+
+[33mcommit ac976c13387cc923890577f526cfbaf5852e0571[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 20:47:19 2025 +0530
+
+    Update ER diagram with final data model
+
+[33mcommit c98380868bff091ad210cc9628a96c59aeba64b7[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 17:00:35 2025 +0530
+
+    Update ER diagram with final data model
+
+[33mcommit 987d196fbff63fef789213f31d98af9604e05bd9[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 16:58:59 2025 +0530
+
+    Update design documentation with comprehensive object model details and ER diagram reference
+
+[33mcommit d67f447b3831ff1ab9c1a8e8504bb9c955b58511[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 16:36:51 2025 +0530
+
+    Added Product__c and Sample_Request__c metadata files
+
+[33mcommit 4cf2347dd56366b518e8474424a038b0134e3985[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 16:33:49 2025 +0530
+
+    Added Territory__c lookup to HCP__c and updated list view
+
+[33mcommit d52f5e6b01907ad922015ce38d160c0bcb29c6a3[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 16:30:46 2025 +0530
+
+    Day 2: Created Territory__c object and Region__c field, added Territory__c lookup to Inventory__c
+
+[33mcommit d74b79db5d72a80cd346807f207c8e2da52ea681[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 01:13:07 2025 +0530
+
+    Day 1: Add ER diagram and update design notes
+
+[33mcommit c4bfc43b9f63803fbe5554ae6435f36c545b9456[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 00:59:41 2025 +0530
+
+    Day 1: Add ER diagram and design documentation
+
+[33mcommit 6ba4c12e1caca1ff757b067412027ed907cd5c3a[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sun Oct 26 00:56:14 2025 +0530
+
+    Day 1: Add ER diagram and design documentation
+
+[33mcommit 38ed52fc1c50805a278f747d7832fd458f7e7156[m
+Author: Ahamad <ahammedbasha950@gmail.com>
+Date:   Sat Oct 25 22:56:59 2025 +0530
+
+    Init Clearview project skeleton
