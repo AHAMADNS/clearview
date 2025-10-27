@@ -5,8 +5,6 @@
     <columns>HCP__c</columns>
     <columns>Product__c</columns>
     <columns>Quantity__c</columns>
-    <columns>Status__c</columns>
-    <columns>Priority__c</columns>
     <columns>Request_Date__c</columns>
     <filterScope>Everything</filterScope>
     <label>All Sample Requests</label>

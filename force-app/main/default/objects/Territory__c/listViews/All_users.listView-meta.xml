@@ -2,9 +2,9 @@
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>All_users</fullName>
     <columns>NAME</columns>
-    <columns>OBJECT_ID</columns>
+    <columns>Region__c</columns>
     <columns>CREATEDBY_USER</columns>
     <columns>CREATED_DATE</columns>
     <filterScope>Mine</filterScope>
-    <label>All</label>
+    <label>All users</label>
 </ListView>
